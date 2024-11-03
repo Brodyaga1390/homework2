@@ -115,7 +115,7 @@ public class Main {
         int denisYeah1 = denis * monthOfYeah;
         System.out.println("Годовой доход до надбавки " + denisYeah1 + " рублей");
         int denisYeah2 = denis2 * monthOfYeah;
-        System.out.println("Годовой доход после надбавки " + denisYeah2 + " рублей");
+        System.out.println("Годовой доход после надбавки " + denisYeah2 + " рублей.");
         System.out.println("Денис теперь получает " + denisYeah2 + " рублей.Годовой доход вырос на " + denis2 + " рублей");
 
         int kristina1 = kristina / yeah;
